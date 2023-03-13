@@ -1,0 +1,18 @@
+
+	Factors
+	
+	Brute Force Approach
+	
+	
+	Content Creation (Youtube Videos, Blogs etc.)
+	
+	Evaluation of postfix expression.
+	Conversion of infix to postfix.
+	
+	c = (a+b) - 5		//infix
+	
+	cab+5-=				//postfix (reverse polish notation)
+	
+	Solution is implemented efficiently using stack.
+	
+	-2 x -2	= 4
